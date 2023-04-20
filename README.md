@@ -10,7 +10,7 @@
 
 - 💻 &nbsp;  Dart | Rest APIs
 - 🌐 &nbsp; Flutter | BloC | Provider | NgroK
-- 🛢 &nbsp; Firebase | sqlite |  Shared Preferences
+- 🛢 &nbsp; Firebase | sqflite |  Shared Preferences
 - 🔧 &nbsp; Git | GitHub 
 
 <br/>
