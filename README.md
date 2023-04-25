@@ -8,8 +8,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Dart | Rest APIs
-- 🌐 &nbsp; Flutter | BloC | Provider | NgroK
+- 🌐 &nbsp;  Dart | Javascript
+- 💻 &nbsp; Flutter | BloC | Provider | NgroK
 - 🛢 &nbsp; Firebase | sqflite |  Shared Preferences
 - 🔧 &nbsp; Git | GitHub 
 
