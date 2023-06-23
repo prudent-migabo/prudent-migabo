@@ -11,7 +11,7 @@
 - 🌐 &nbsp; Dart | Javascript | Java | Kotlin 
 - 💻 &nbsp; Flutter | BloC | Provider | NgroK
 - 🛢 &nbsp;  Firebase | sqflite |  Shared Preferences | Hive
-- 🔧 &nbsp; Git | GitHub | Slack
+- 🔧 &nbsp; Git | GitHub | Slack | Trello | Discord | GCP
 
 <br/>
 
