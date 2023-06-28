@@ -9,9 +9,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; Dart | Javascript | Java | Kotlin 
-- 💻 &nbsp; Flutter | BloC | Provider | NgroK
+- 💻 &nbsp; Flutter | BloC | Provider
 - 🛢 &nbsp;  Firebase | sqflite |  Shared Preferences | Hive
-- 🔧 &nbsp; Git | GitHub | Slack | Trello | Discord | GCP
+- 🔧 &nbsp; Git | GitHub | Slack | Trello | Discord | GCP | Firebase hosting | Postman | Notion
 
 <br/>
 
